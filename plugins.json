@@ -1,0 +1,73 @@
+[
+    {
+        "fileHash": "sha256-fbd188428dd000488654c5c8bb29c8afb0a93f475f141c25c6795ba6288b2d3f",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mewsono/cs-7f3a91",
+        "fileSize": 8491,
+        "status": 3,
+        "language": "en",
+        "authors": [
+            "you"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "MyProvider",
+        "description": "Personal test provider - public domain sample videos",
+        "url": "https://raw.githubusercontent.com/mewsono/cs-7f3a91/builds/MyProvider.cs3",
+        "name": "MyProvider"
+    },
+    {
+        "fileHash": "sha256-16773f7a2e3abf7048adaafaf14947771ef8bbe9b90d31b641cc2d821d695ab5",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mewsono/cs-7f3a91",
+        "fileSize": 17144,
+        "status": 1,
+        "language": "en",
+        "authors": [],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "AllManga",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/mewsono/cs-7f3a91/builds/AllManga.cs3",
+        "name": "AllManga"
+    },
+    {
+        "fileHash": "sha256-5372a3f86ad594a49b9b6e95bd999580f9f932fb78334f153b376154eb1efd07",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mewsono/cs-7f3a91",
+        "fileSize": 16433,
+        "status": 1,
+        "language": "en",
+        "authors": [],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "HenVids",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/mewsono/cs-7f3a91/builds/HenVids.cs3",
+        "name": "HenVids"
+    },
+    {
+        "fileHash": "sha256-45a5305e2a4c2e5b5aea2cc93c4dadc863ea3a7903a324c37fa50501cf63b607",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/mewsono/cs-7f3a91",
+        "fileSize": 23688,
+        "status": 1,
+        "language": "en",
+        "authors": [],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 10,
+        "internalName": "MissAV",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/mewsono/cs-7f3a91/builds/MissAV.c3.cs3",
+        "name": "MissAV"
+    }
+]

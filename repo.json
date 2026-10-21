@@ -1,0 +1,8 @@
+{
+    "name": "cs-7f3a91",
+    "description": "",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/mewsono/cs-7f3a91/builds/plugins.json"
+    ]
+}
